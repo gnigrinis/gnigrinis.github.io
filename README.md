@@ -12,6 +12,39 @@ __Write me by <a href="https://www.linkedin.com/in/giancarlonigrinis/">Linkedin<
 
 # Portfolio
 
+## Geo Location
+
+### About Page
+This page was made to give us an alternative map to locate us.
+
+### Used knowledge
+- Html 5.
+- CSS 3 for Phone, Tablet and Large Screen.
+- JavaScript.
+- Use of API Leaflet like free alternative to google maps.
+
+#### Screenshot
+[![Geo Location](https://i.imgur.com/MPDJCBY.png "Geo Location")](https://i.imgur.com/MPDJCBY.png "Geo Location")
+
+#### Repository
+Link to repository: <a href="https://github.com/gnigrinis/Geo-Location"> Geo-Location</a>
+
+## Debt Capacity 
+
+### About Page
+This page was made to give an online solution for calculate our debt capacity.
+
+### Used knowledge
+- Html 5.
+- CSS 3 for Phone, Tablet and Large Screen.
+- JavaScript.
+
+#### Screenshot
+[![Debt-Capacity](https://i.imgur.com/h2V5NB7.png "Debt-Capacity")](https://i.imgur.com/h2V5NB7.png "Debt-Capacity")
+
+#### Repository
+Link to repository: <a href="https://github.com/gnigrinis/Debt-Capacity"> Debt-Capacity</a>
+
 ## Web-Calculator
 
 #### About page
