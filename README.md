@@ -70,7 +70,7 @@ This page was made to give an online solution for math problems to primary and s
 >Web-Calculator Phone Versión
 
 #### Repository
-Link to repository: <a href="https://github.com/gnigrinis/Web-Calculator"> Wikipedia-Clone</a>
+Link to repository: <a href="https://github.com/gnigrinis/Web-Calculator"> Web-Calculator</a>
 
 ## Wikipedia-Clone
 
